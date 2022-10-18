@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "state" : {
+        "revision" : "9248fe561a2a153916fb9597e3af4434784c6d32",
+        "version" : "5.13.4"
+      }
+    },
+    {
+      "identity" : "skeletonview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Juanpe/SkeletonView.git",
+      "state" : {
+        "revision" : "cb4d48d603b650808677f2ddb381b05261b94a16",
+        "version" : "1.30.3"
+      }
+    }
+  ],
+  "version" : 2
+}
